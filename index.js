@@ -1,3 +1,4 @@
+/* Powered by CodeByTushu | Developed by Tushpendra Kumar | https://codebytushu.com */
 const images = document.querySelectorAll('.image');
 images.forEach(function(image, i) {
   image.addEventListener('click', function() {
